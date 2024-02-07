@@ -5,8 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jmsanchezfin" alt="jmsanchezfin" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Data Structures & Algorithms**
-
+- 🌱 I’m currently learning **CS50 Python and 30 days of Code**
+- https://cs50.harvard.edu/python/2022/
+- https://www.hackerrank.com/domains/tutorials/30-days-of-code
+- 
 - 📫 How to reach me **jmsanchezfin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
