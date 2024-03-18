@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **CS50 Python and 30 days of Code**
 - https://cs50.harvard.edu/python/2022/
-- https://www.hackerrank.com/domains/tutorials/30-days-of-code
+- https://www.hackerrank.com/domains/tutorials/30-days-of-code (done!)
 - 
 - 📫 How to reach me **jmsanchezfin@gmail.com**
 
